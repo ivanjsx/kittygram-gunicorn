@@ -1,0 +1,5 @@
+IP: 158.160.1.80;
+name_taski: https://dinosaurivan.ddns.net;
+name_kittygram: https://kittygram.dinosaurivan.net;
+login: dinosaurivan;
+password: superuser;
